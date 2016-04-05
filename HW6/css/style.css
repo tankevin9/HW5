@@ -1,0 +1,98 @@
+header{
+  background-color: #CCDDFF;
+}
+
+.logo{
+  height: 96px;
+  width: 450;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.contactus{
+  margin-left: 550px;
+  margin-bottom: 40px;
+  height: 96px;
+  width: 450px;
+}
+
+#mainpicture{
+  margin: 80px 100px 10px 220px;
+  width: 900px;
+  height: 400px;
+}
+
+.main{
+  background-color: #99BBFF;
+}
+
+#stoneword{
+  font-size: 32pt;
+  width: 45%;
+  float: left;
+  border-top: 40px;
+  border-left: 40px;
+  padding-left: 40px;
+  padding-right: 60.5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #99BBFF;
+}
+
+#japan{
+  height: 300px;
+  width: 45%;
+  float: right;
+  border-top: 40px;
+  border-left: 40px;
+  padding-left: 0px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 34px;
+  background-color: #99BBFF;
+}
+
+#fall{
+  width: 500px;
+  height: 300px;
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-right: 250px;
+  margin-bottom: 60px;
+}
+
+#waterfall{
+  width: 500px;
+  height: 300px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.sub{
+  background-color: #DDFF77;
+}
+
+#copyright{
+  width: 200px;
+  height: 90px;
+  float: left;
+}
+
+.CSIE{
+  float: left;
+  line-height: 57px;  
+}
+
+#home{
+  width: 170px;
+  height: 90px;
+  float: right;
+}
+
+footer{
+  background-color: #007799;
+  height: 90px;
+}
